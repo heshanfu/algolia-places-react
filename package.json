@@ -77,7 +77,7 @@
     "webpack-cli": "3.2.3"
   },
   "dependencies": {
-    "places.js": "^1.15.1",
+    "places.js": "1.15.5",
     "prop-types": "^15.6.0"
   },
   "config": {
